@@ -1,1 +1,0 @@
-document.getElementById("demo").innerHTML = "ik heb verschillende hobby's onder andere programmeren van websites, sporten en video's editen.";
